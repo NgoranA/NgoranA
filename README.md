@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ngoran Aristide and I love software engineering.
+## I'm Ngoran Aristide
 
 <!--
 **NgoranA/NgoranA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
